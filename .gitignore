@@ -6,6 +6,7 @@
 # See: https://github.com/github/gitignore/tree/main/Global
 #
 .utmp/
+/Docs/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -108,3 +109,12 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# DOTween: install locally from the Asset Store package (including its metadata).
+/Assets/Plugins/Demigiant/DOTween/
+/Assets/Plugins/Demigiant/DOTween.meta
+/Assets/Plugins/Demigiant.meta
+/Assets/Demigiant/DOTween/
+/Assets/Demigiant/DOTween.meta
+/Assets/Resources/DOTweenSettings.asset
+/Assets/Resources/DOTweenSettings.asset.meta
